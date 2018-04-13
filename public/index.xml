@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization in Image Analysis</title>
+    <link>//optimization-image-analysis.compute.dtu.dk/</link>
+    <description>Recent content on Optimization in Image Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    
+	<atom:link href="//optimization-image-analysis.compute.dtu.dk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Registration</title>
+      <link>//optimization-image-analysis.compute.dtu.dk/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/registration/</guid>
+      <description>Information regarding registration will come soon!</description>
+    </item>
+    
+    <item>
+      <title>Program &amp; Speakers</title>
+      <link>//optimization-image-analysis.compute.dtu.dk/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/program/</guid>
+      <description>Program Program will appear here!
+Speakers Short summaries of speakers will be placed here!</description>
+    </item>
+    
+    <item>
+      <title>Reading Material &amp; Posters</title>
+      <link>//optimization-image-analysis.compute.dtu.dk/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/reading/</guid>
+      <description>Posters Instructions Full participation in the summer school will give you 3.0 ECTS credits. Full participation requires the student to present a poster at the summer school. This includes:
+ Bringing a poster (relevant to the summer school topic, preferably). Max. dimensions are 88cm wide x 126cm tall (A0 portrait). A poster teaser (1-2 slides, 1 minute) at the summer school. Rehears to make sure you are within the time limit.</description>
+    </item>
+    
+    <item>
+      <title>Venue &amp; Practicalities</title>
+      <link>//optimization-image-analysis.compute.dtu.dk/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/venue/</guid>
+      <description> Venue Include link and picture
+Accomodation What kind of rooms.
+Practicalities Transportation Food Drinks Rooms Remember to bring </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//optimization-image-analysis.compute.dtu.dk/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/about/</guid>
+      <description>The summer school is organized in collaboration between The Image Section, Department of Computer Science, University of Copenhagen and the Image Analysis and Computer Graphics section, DTU Compute, Technical University of Denmark.
+Co-funding partners  DTU Compute PhD School Imaging and Machine Learning research school (IMLRS)  Organizers  Andreas Aabrandt, aabrandt@di.ku.dk Anders Bjorholm Dahl, abda@dtu.dk Kim Steenstrup Pedersen, kimstp@di.ku.dk Søren Schou Gregersen, sorgre@dtu.dk Gudmundur Einarsson, guei@dtu.dk  ECTS Credits Participation in the summer school will give you 3 ECTS credits if you have full attendance, hand in assignments, and present a poster at the summer school.</description>
+    </item>
+    
+  </channel>
+</rss>

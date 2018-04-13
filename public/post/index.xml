@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Optimization in Image Analysis</title>
+    <link>//optimization-image-analysis.compute.dtu.dk/post/</link>
+    <description>Recent content in Posts on Optimization in Image Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    
+	<atom:link href="//optimization-image-analysis.compute.dtu.dk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>//optimization-image-analysis.compute.dtu.dk/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//optimization-image-analysis.compute.dtu.dk/post/test/</guid>
+      <description>Welcome to the 2018 summer school on Optimization in Image Analysis. This will be the tenth in a series of summer school programs organized jointly by the Image Analysis and Computer Graphics section at DTU Compute and the Image Group at the Department of Computer Science in Univeristy of Copenhagen. This year the summer school will be held at Sandbjerg in southern Jutland.
+The concept is to invite 2-4 internationally renowned experts to teach a week-long course together with local teachers from KU and DTU.</description>
+    </item>
+    
+  </channel>
+</rss>
