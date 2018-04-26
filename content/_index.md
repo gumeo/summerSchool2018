@@ -6,9 +6,9 @@ type = "index"
 <img style='height: 100%; width: 100%; object-fit: contain' src='sandbjerg1.jpg'/>
 </center>
 
-# Welcome
+# Welcome to the 2018 summer school on Optimization in Image Analysis 14-18th August 
 
-to the 2018 summer school on **Optimization in Image Analysis**. This will be the **tenth** in a series of summer school programs organized jointly by the [*Image Analysis and Computer Graphics*](http://www.compute.dtu.dk/english/research/Image) section at DTU Compute and the [*Image Group*](http://www.diku.dk/english/research/imagesection/) at the Department of Computer Science in Univeristy of Copenhagen. This year the summer school will be held at [**Sandbjerg**](https://www.sandbjerg.dk/en/) in southern Jutland. 
+This will be the **tenth** in a series of summer school programs organized jointly by the [*Image Analysis and Computer Graphics*](http://www.compute.dtu.dk/english/research/Image) section at DTU Compute and the [*Image Group*](http://www.diku.dk/english/research/imagesection/) at the Department of Computer Science in Univeristy of Copenhagen. This year the summer school will be held at [**Sandbjerg**](https://www.sandbjerg.dk/en/) in southern Jutland. 
 
 The concept is to invite 2-4 internationally renowned experts to teach a week-long course together with local teachers from KU and DTU. The participants are a good mix of students from KU, DTU and international participants. The summer schools are held in remote locations to encourage interaction between students and teachers. In addition to bringing international expertise in to the groups, the summer schools also provide an important networking opportunity for the students.
 
