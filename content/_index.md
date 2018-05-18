@@ -16,7 +16,7 @@ The concept is to invite 2-4 internationally renowned experts to teach a week-lo
 
 The date for the summer school has been finalized, other deadlines will appear soon.
 
-- Registration deadline (TBA)
+- Registration deadline June 10th
 - Payment deadline (TBA)
 - Submission of posters August 1st
 - Summer school August 14th-18th
