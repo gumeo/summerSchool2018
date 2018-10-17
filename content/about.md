@@ -14,11 +14,11 @@ The summer school is organized in collaboration between [The Image Section](http
 
 ## Organizers
 
-- Andreas Aabrandt, [aabrandt@di.ku.dk](mailto:aabrandt@di.ku.dk)
-- Anders Bjorholm Dahl, [abda@dtu.dk](mailto:abda@dtu.dk)
-- Kim Steenstrup Pedersen, [kimstp@di.ku.dk](mailto:kimstp@di.ku.dk)
-- Søren Schou Gregersen, [sorgre@dtu.dk](mailto:sorgre@dtu.dk)
-- Gudmundur Einarsson, [guei@dtu.dk](mailto:guei@dtu.dk)
+- [Aasa Feragen](https://sites.google.com/site/aasaferagen/), [aasa@diku.dk](mailto:aasa@diku.dk)
+- [Anders Bjorholm Dahl](http://www.imm.dtu.dk/~abda/), [abda@dtu.dk](mailto:abda@dtu.dk)
+- [Kim Steenstrup Pedersen](http://image.diku.dk/kimstp/), [kimstp@di.ku.dk](mailto:kimstp@di.ku.dk)
+- [Søren Schou Gregersen](http://www.dtu.dk/service/telefonbog/person?id=51505&cpid=223554&tab=5&type=all), [sorgre@dtu.dk](mailto:sorgre@dtu.dk)
+- [Gudmundur Einarsson](https://gumeo.github.io/), [guei@dtu.dk](mailto:guei@dtu.dk)
 
 ## ECTS Credits
 

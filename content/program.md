@@ -7,7 +7,7 @@ weight: 30
 
 # Program
 
-In the making!
+You can download a preliminary program [here!](../SummerSchoolProgram.pdf)
 
 # Invited Speakers
 
@@ -28,10 +28,6 @@ Oswin Krause finished his PhD in 2015 at DIKU and is currently in a postdoc posi
 
 Francois Lauze has a background in mathematics, where he obtained his PhD in Algebraic Geometry from the University of Nice Sophia Anipolis in 1994. He spent some time in Burkina Faso, until he came to the IT university in Copenhagen and obtained another PhD in 2004. He has worked on variational methods for motion compensated inpainting and motion recovery among other things. His current research is on variational methods, and geometry for Image Analysis (mainly Riemannian, but also some metric geometry). More recently, he has spent some time with inverse problems in photometric stereo and tomographic imaging. 
 
-## <img align="left" style="margin: 0px 10px; width: 120px;" src='../maren.jpeg'/>Maren Mahsereci Researcher at Amazon ([Publications](https://pn.is.tuebingen.mpg.de/person/mmahsereci))
-
-Maren Mahsereci did her PhD at the Max Planck Institute for Intelligent Systems in the Probabilistic Numerics group. Her research has been focused on probabilistic line searches for stochastic optimization and early stopping of learning algorithms, without a validation set. She is currently doing research at Amazon.
-
 ## <img align="left" style="margin: 0px 10px; width: 120px;" src='../tao.jpeg'/> Tao Wu Postdoc at TU Munich ([Publications](https://scholar.google.dk/citations?user=ozunQo4AAAAJ&hl=en&oi=sra))
 
-Tao Wu has recently focused on approaches for photometric stereo and proximal algorithms on graphs. He teaches the course convex optimization for machine learning and computer vision at TUM.
+Tao Wu has recently focused on approaches for photometric stereo and proximal algorithms on graphs. He teaches the course convex optimization for machine learning and computer vision at TUM. The title of his talk is *Proximal Algorithms in Vision and Learning*.
